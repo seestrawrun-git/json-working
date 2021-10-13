@@ -1,4 +1,4 @@
-let url = "http://api.open-notify.org/astros.json";
+let url = "https://api.open-notify.org/astros.json";
 let data;
 
 function preload(){
